@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=keyframe_layer
+X-Python-2-Compatible=false
+X-Krita-Manual=keyframe_layer_manual.html
+Name=KeyFrame Layer
+Comment=Creates a new animation layer with a key frame to merge down.
